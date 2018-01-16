@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="training4.png">images/training/4.png</file>
+        <file alias="training3.png">images/training/3.png</file>
+        <file alias="training2.png">images/training/2.png</file>
+        <file alias="training1.png">images/training/1.png</file>
+        <file alias="training0.png">images/training/0.png</file>
+        <file alias="patterns19.png">images/patterns/19.png</file>
+        <file alias="patterns18.png">images/patterns/18.png</file>
+        <file alias="patterns17.png">images/patterns/17.png</file>
+        <file alias="patterns16.png">images/patterns/16.png</file>
+        <file alias="patterns15.png">images/patterns/15.png</file>
+        <file alias="patterns14.png">images/patterns/14.png</file>
+        <file alias="patterns13.png">images/patterns/13.png</file>
+        <file alias="patterns12.png">images/patterns/12.png</file>
+        <file alias="patterns11.png">images/patterns/11.png</file>
+        <file alias="patterns10.png">images/patterns/10.png</file>
+        <file alias="patterns9.png">images/patterns/9.png</file>
+        <file alias="patterns8.png">images/patterns/8.png</file>
+        <file alias="patterns7.png">images/patterns/7.png</file>
+        <file alias="patterns6.png">images/patterns/6.png</file>
+        <file alias="patterns5.png">images/patterns/5.png</file>
+        <file alias="patterns4.png">images/patterns/4.png</file>
+        <file alias="patterns3.png">images/patterns/3.png</file>
+        <file alias="patterns2.png">images/patterns/2.png</file>
+        <file alias="patterns1.png">images/patterns/1.png</file>
+        <file alias="patterns0.png">images/patterns/0.png</file>
+    </qresource>
+</RCC>
